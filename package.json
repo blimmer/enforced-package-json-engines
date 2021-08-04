@@ -1,0 +1,7 @@
+{
+  "name": "enforced-package-json-engines",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
